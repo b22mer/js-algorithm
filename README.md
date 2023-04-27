@@ -1,9 +1,10 @@
 # js-algorithm
 
-### 구현
+### 구현 & 정렬
 
 [돌 게임](https://www.acmicpc.net/problem/9655)<br>
 [ZOAC 4](https://www.acmicpc.net/problem/23971)<br>
 [삼각형과 세 변](https://www.acmicpc.net/problem/5073)<br>
 [줄세우기](https://www.acmicpc.net/problem/10431)<br>
-[임스와게임](https://www.acmicpc.net/problem/25757)
+[임스와게임](https://www.acmicpc.net/problem/25757)<br>
+[올림픽](https://www.acmicpc.net/problem/8979)<br> re
