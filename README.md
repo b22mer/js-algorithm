@@ -7,4 +7,5 @@
 [삼각형과 세 변](https://www.acmicpc.net/problem/5073)<br>
 [줄세우기](https://www.acmicpc.net/problem/10431)<br>
 [임스와게임](https://www.acmicpc.net/problem/25757)<br>
-[올림픽](https://www.acmicpc.net/problem/8979)<br> re
+[올림픽](https://www.acmicpc.net/problem/8979)<br> 
+[올림픽](https://www.acmicpc.net/problem/8979)<br> 
