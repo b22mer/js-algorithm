@@ -10,3 +10,4 @@
 [올림픽](https://www.acmicpc.net/problem/8979)<br> 
 [비밀번호발음하기](https://www.acmicpc.net/problem/4659)<br> 
 [쿠키의 신체 측정 ](https://www.acmicpc.net/problem/20125)<br> 
+[등수구하기 ](https://www.acmicpc.net/problem/1205)<br> 
