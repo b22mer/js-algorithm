@@ -12,3 +12,4 @@
 [쿠키의 신체 측정 ](https://www.acmicpc.net/problem/20125)<br> 
 [등수구하기 ](https://www.acmicpc.net/problem/1205)<br> 
 [어두운굴다리 ](https://www.acmicpc.net/problem/17266)<br> 
+[영단어 암기는 괴로워 ](https://www.acmicpc.net/problem/20920)<br> 
