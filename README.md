@@ -17,3 +17,6 @@
 
 ### 이분탐색
 [예산 ](https://www.acmicpc.net/problem/2512)<br> 
+
+### 누적합
+[블로그 ](https://www.acmicpc.net/problem/21921)<br> 
