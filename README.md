@@ -22,5 +22,4 @@
 [블로그 ](https://www.acmicpc.net/problem/21921)<br> 
 
 
-### 이코테
-업데이트중
+
