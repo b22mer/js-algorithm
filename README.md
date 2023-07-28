@@ -14,7 +14,6 @@
 [어두운굴다리 ](https://www.acmicpc.net/problem/17266)<br> 
 [영단어 암기는 괴로워 ](https://www.acmicpc.net/problem/20920)<br> 
 
-
 ### 이분탐색
 [예산 ](https://www.acmicpc.net/problem/2512)<br> 
 
